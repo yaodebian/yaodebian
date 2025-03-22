@@ -5,7 +5,7 @@
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
-- 📫 How to reach me: [twitter](https://twitter.com/yaodebian), [知乎](https://www.zhihu.com/people/bi-an-yao-91), **Wechat Official Account: 冬沐前端评论**
+- 📫 How to reach me: [twitter](https://twitter.com/yaodebian), [知乎](https://www.zhihu.com/people/bi-an-yao-91), **Wechat Official Account: 冬沐**
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
